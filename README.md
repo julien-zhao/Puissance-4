@@ -21,7 +21,7 @@ Puissance 4 (Connect Four) is a Python-based implementation of the classic Conne
    git clone https://github.com/julien-zhao/Puissance-4.git
    
 2. Navigate to the project folder:
-  ```bash
+```bash
   cd Puissance-4
   ```
 3. Run the game:
